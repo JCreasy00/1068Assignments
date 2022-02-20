@@ -1,3 +1,5 @@
+// this was the file given to us for assignment 5 for testing. It uses Junit and works really well on eclipse
+
 import static org.junit.jupiter.api.Assertions.*;
 
 import org.junit.jupiter.api.Test;
